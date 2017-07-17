@@ -1,5 +1,5 @@
 # SOI_IRS_ZipCode_Analysis
-Analysis to help sales team determine which states and zip codes should be targeted from an investor sales perspective.Please note that only accredited investors are eligible to invest on the EquityZen platform.
+Analysis to help sales team determine which states and zip codes should be targeted from an investor sales perspective.Please note that only accredited investors are eligible to invest on the platform.
 
 1) Please download the full data set, for all states, related to 2014 Zip Code data from the IRS website: https://www.irs.gov/uac/soi-tax-stats-individual- income-tax-statistics-2014-zip-code-data-soi. To ensure you have downloaded the correct dataset, ensure the file you have downloaded is named “14zpallagi.csv”. The IRS also supplies documentation on the data fields and what they represent on the website, so be sure to review that as part of your homework.
 
